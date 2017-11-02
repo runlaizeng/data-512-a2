@@ -6,6 +6,14 @@ The goal of this analysis is to explore the definition of 'bias' through data on
 ## License and Terms
 [MIT License](https://opensource.org/licenses/MIT)
 
+## Prerequire Package 
+- numpy
+
+- pandas
+
+- request
+
+- csv
 
 ##  Data Scource
 
@@ -32,18 +40,6 @@ Values shown as follows:
 |  population |
 
 ## Data Process and Analysis
-
-Prerequiste Packages:
-
-- requests
-
-- json 
-
-- csv
-
-- pandas
-
-- numpy
 
 
 There will be visualizations to show:
