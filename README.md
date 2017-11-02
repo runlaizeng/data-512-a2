@@ -17,13 +17,13 @@ The goal of this analysis is to explore the definition of 'bias' through data on
 
 ##  Data Scource
 
-**Page data:**The wikipedia dataset can be found on [Figshare](https://figshare.com/articles/Untitled_Item/5513449).
+**Page data:** The wikipedia dataset can be found on [Figshare](https://figshare.com/articles/Untitled_Item/5513449).
 
-**Population Mid 2015 data:**The population data is on the [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14). 
+Population Mid 2015 data: The population data is on the [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14). 
 
 ## Relevant API
 
-**ORES:**  a Wikimedia API endpoint for a machine learning system[ORES ("Objective Revision Evaluation Service")](https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model).
+ORES:  a Wikimedia API endpoint for a machine learning system[ORES ("Objective Revision Evaluation Service")](https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model).
 
 ## Final Data File
 
@@ -42,11 +42,12 @@ Values shown as follows:
 ## Data Process and Analysis
 
 
-There will be visualizations to show:
+There will four table to show:
 
-1. the countries with the greatest and least coverage of politicians on Wikipedia compared to their population.
-
-2. the countries with the highest and lowest proportion of high quality articles about politicians.
+- 10 highest-ranked countries in terms of number of politician articles as a proportion of country population
+- 10 lowest-ranked countries in terms of number of politician articles as a proportion of country population
+- 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
+- 10 lowest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
 
 ```a2-bias-in-data.ipynb``` under ```scr``` folder contains all code and information of data processing and analysis.
 
