@@ -19,11 +19,11 @@ The goal of this analysis is to explore the definition of 'bias' through data on
 
 **Page data:** The wikipedia dataset can be found on [Figshare](https://figshare.com/articles/Untitled_Item/5513449).
 
-Population Mid 2015 data: The population data is on the [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14). 
+**Population Mid 2015 data:** The population data is on the [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14). 
 
 ## Relevant API
 
-ORES:  a Wikimedia API endpoint for a machine learning system[ORES ("Objective Revision Evaluation Service")](https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model).
+**ORES:**  a Wikimedia API endpoint for a machine learning system[ORES ("Objective Revision Evaluation Service")](https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model).
 
 ## Final Data File
 
