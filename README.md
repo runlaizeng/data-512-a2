@@ -49,7 +49,6 @@ There will four table to show:
 - 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
 - 10 lowest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
 
-```a2-bias-in-data.ipynb``` under ```scr``` folder contains all code and information of data processing and analysis.
 
 ## Directory Structure
 
