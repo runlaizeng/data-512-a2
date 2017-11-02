@@ -23,7 +23,7 @@ The goal of this analysis is to explore the definition of 'bias' through data on
 
 ## Relevant API
 
-**ORES:**  a Wikimedia API endpoint for a machine learning system[ORES ("Objective Revision Evaluation Service")](https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model).
+**ORES:**  a Wikimedia API endpoint for a machine learning system [ORES ("Objective Revision Evaluation Service")](https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model).
 
 ## Final Data File
 
